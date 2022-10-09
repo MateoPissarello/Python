@@ -1,0 +1,2 @@
+A diferencia del ciclo while, el ciclo For nos va a permitir más iterar una lista de datos o una lista
+Iterar significa recorrer cada elemento de un conjunto de datos.

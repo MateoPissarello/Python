@@ -1,0 +1,13 @@
+En python existen distintos tipos de datos:
+
+Numericos:
+         -Enteros (int)
+         -Decimales(float)
+         -Complex number
+Dictionary
+Boolean
+Set
+Sequence Type:
+         -Strings
+         -List
+         -Tuple

@@ -1,0 +1,4 @@
+Operadores lógicos:
+    "and" = Devuelve True si ambos operandos son True          (a and B)
+    "or"  = Devuelve True si alguno de los operandos es True   (a or b) 
+    "not" = Devuelve True si alguno de los operandos es False  (not a)

@@ -1,0 +1,3 @@
+En un ciclo while primero vamos a evaluar si una condicio es verdadera, si tenemos el valor de True
+se va a ejecutar nuestro bloque de codigo del ciclo while, y mientras siga siendo verdadero se vuelve a repetir
+el ciclo hasta que la condicion deje de ser verdadera 
